@@ -24,7 +24,7 @@ In this study, we collected the sexual harassment Dataset (SHVD). We have the fo
 
 
 ## 🎁 Download
-To get access to the full dataset please send an [email](mailto:shamimul435@gmail.com) with your real name and institution. We will get back to you with the MV-BSLD dataset within a week.
+To get access to the full dataset please send an [email](mailto:shamimul435@gmail.com) with your real name and institution. We will get back to you with the SHVD dataset within a week.
 
 
 
